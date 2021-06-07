@@ -15,7 +15,7 @@
 ● IDE: XCode<br>
 
 ### Hardware:
-● OperatingSystem: MacOS
+● OperatingSystem: MacOS<br>
 ● RAM:8GB
 
 ### Benefits
