@@ -3,8 +3,7 @@
 <hr> 
 
 ### Screenshot:
-![Simulator_Screen_Shot_-_iPad_Pro_12 9-inch_5th_generation_-_2021-06-07_at_14 13 43_3_15](https://user-images.githubusercontent.com/47811606/120992666-736ab580-c7a0-11eb-89d2-eca834a3eda2.png)  ![Simulator_Screen_Shot_-_iPad_Pro_12 9-inch_5th_generation_-_2021-06-07_at_14 14 49_15](https://user-images.githubusercontent.com/47811606/120992698-79609680-c7a0-11eb-8152-1d76923e7dda.png)  ![Simulator_Screen_Shot_-_iPad_Pro_12 9-inch_5th_generation_-_2021-06-07_at_14 15 33_15](https://user-images.githubusercontent.com/47811606/120993164-e8d68600-c7a0-11eb-8f97-fda0768af6b6.png)
-
+![Simulator_Screen_Shot_-_iPad_Pro_12 9-inch_5th_generation_-_2021-06-07_at_14 13 43_3_15](https://user-images.githubusercontent.com/47811606/120992666-736ab580-c7a0-11eb-89d2-eca834a3eda2.png)  ![Simulator_Screen_Shot_-_iPad_Pro_12 9-inch_5th_generation_-_2021-06-07_at_14 14 49_15](https://user-images.githubusercontent.com/47811606/120992698-79609680-c7a0-11eb-8152-1d76923e7dda.png)  
 ### Software:
  ● Programming Language:Swift- Swift a programming language developed by Apple and Swift is used to develop apps for iOS, macOS, watchOS, and other apple ecosystems.<br>
  
